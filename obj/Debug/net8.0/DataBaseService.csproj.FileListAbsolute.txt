@@ -1,0 +1,14 @@
+C:\Gaby\DataBaseService\obj\Debug\net8.0\DataBaseService.csproj.AssemblyReference.cache
+C:\Gaby\DataBaseService\obj\Debug\net8.0\DataBaseService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gaby\DataBaseService\obj\Debug\net8.0\DataBaseService.AssemblyInfoInputs.cache
+C:\Gaby\DataBaseService\obj\Debug\net8.0\DataBaseService.AssemblyInfo.cs
+C:\Gaby\DataBaseService\obj\Debug\net8.0\DataBaseService.csproj.CoreCompileInputs.cache
+C:\Gaby\DataBaseService\bin\Debug\net8.0\DataBaseService.deps.json
+C:\Gaby\DataBaseService\bin\Debug\net8.0\DataBaseService.runtimeconfig.json
+C:\Gaby\DataBaseService\bin\Debug\net8.0\DataBaseService.dll
+C:\Gaby\DataBaseService\bin\Debug\net8.0\DataBaseService.pdb
+C:\Gaby\DataBaseService\obj\Debug\net8.0\DataBaseService.dll
+C:\Gaby\DataBaseService\obj\Debug\net8.0\refint\DataBaseService.dll
+C:\Gaby\DataBaseService\obj\Debug\net8.0\DataBaseService.pdb
+C:\Gaby\DataBaseService\obj\Debug\net8.0\DataBaseService.genruntimeconfig.cache
+C:\Gaby\DataBaseService\obj\Debug\net8.0\ref\DataBaseService.dll
